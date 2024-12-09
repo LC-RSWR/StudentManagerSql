@@ -1,0 +1,3 @@
+﻿  studentmanagersql.cpp
+C:\Users\Administrator\Desktop\StudentManagerSql\studentmanagersql.cpp(206,13): warning C4189: “id”: 局部变量已初始化但不引用
+  StudentManagerSql.vcxproj -> C:\Users\Administrator\Desktop\StudentManagerSql\debug\StudentManagerSql.exe
